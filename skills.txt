@@ -1,0 +1,11 @@
+hard skills:
+GitBash
+GitHub
+HTML,CSS,JS
+Dev Tools
+Postman, Charles, Fiddler
+SQL
+Android studio
+Testing methods
+Jmeter
+Python
