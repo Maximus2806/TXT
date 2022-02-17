@@ -1,0 +1,5 @@
+Name:Maksim,
+Surname:Marozau
+age: 43
+pets_quantity: 2
+salary: 1500
