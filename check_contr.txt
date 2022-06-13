@@ -1,1 +1,2 @@
-Just a test
+Additional string
+One more string
